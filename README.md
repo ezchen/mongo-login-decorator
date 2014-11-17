@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MongoLogin
 ==========
 
@@ -17,3 +18,7 @@ Modular, lightweight, powerful.
 - **isInDatabase**(name[, dbname, [dbCollectionName])
 
 	If the user is located in the correct database and collection, returns True. Otherwise, return False.
+=======
+mongo-login-decorator
+=====================
+>>>>>>> bc0cf13981c118bf38d5b578adb76387dc54eea5
