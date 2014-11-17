@@ -1,6 +1,8 @@
 MongoLogin
 ==========
 
+Instead of using the built in session manager in python to display certain pages, this project attempts to create it's own session manager by storing 'authenticated' in the databse for each user. If authenticated is true then the user is logged in.
+
 Modular, lightweight, powerful.
 
 - **addUser**(name, password[, dbname[, dbCollectionName])
